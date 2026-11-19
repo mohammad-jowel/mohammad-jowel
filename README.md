@@ -1,46 +1,102 @@
 <div align="center">
 
-# Hi, I’m Md Jowel 👋
+# Md Jowel
 
-### Software Engineering Undergraduate · Full-Stack Developer · AI/ML Enthusiast
+### Full-Stack Developer · AI/ML Enthusiast · Software Engineering Student
 
-I build web applications and explore practical AI—from Django and React projects to computer vision, NLP, and machine learning.
+I build full-stack web applications and work with machine learning, combining independent learning with hands-on development.
 
-[Portfolio](http://mohammadjowel.vercel.app) · [LinkedIn](https://www.linkedin.com/in/md-jowel-539775251/) · [Email](mailto:mohammadjowel313@gmail.com)
+[Portfolio](https://mohammadjowel.vercel.app) · [LinkedIn](https://www.linkedin.com/in/md-jowel-539775251/) · [Email](mailto:mohammadjowel313@gmail.com)
 
 </div>
-
-## About Me
-
-- 🎓 Software Engineering undergraduate
-- 🌏 Based in Johor, Malaysia
-- 💻 Interested in full-stack development, machine learning, computer vision, and NLP
-- 📚 Learning through hands-on projects and CS50 coursework
-
-## Tech I Work With
-
-**Languages:** Python, JavaScript, SQL, C<br>
-**Web:** Django, Django REST Framework, React, Next.js, HTML, CSS, Tailwind CSS<br>
-**AI & Data:** TensorFlow, Keras, NumPy, scikit-learn, Transformers<br>
-**Tools:** Git
-
-## Featured Projects
-
-- [Portfolio Website](https://github.com/mohammad-jowel/portfolio) — My personal portfolio for projects, writing, skills, and contact information.
-- [Class Tracker](https://www.classtracker.space) — A student timetable, deadline, and task management application.
-- [Adgenx CRM](https://www.adgenx.online) — A CRM platform for managing Facebook ad accounts and payment tracking.
-- **AI coursework projects** — Experiments with BERT attention, traffic-sign classification, reinforcement learning, and constraint-satisfaction search.
-
-## Connect
-
-- 🌐 [mohammadjowel.vercel.app](http://mohammadjowel.vercel.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/md-jowel-539775251/)
-- ✉️ [mohammadjowel313@gmail.com](mailto:mohammadjowel313@gmail.com)
-
----
 
 <div align="center">
 
-*Always learning, building, and improving.*
+```text
+:::::::=%%%%@@%%%%%%%%@+.:::::::
+:::::::#%%%%@@%%%%%%%%@%-:::::::
+::::::-%%@@@@@%%%%%#%@%@+.::::::
+:::::.=@@%#%#%%###%%%%@@#:::::::
+:::::.=@@*++======++*##%#:::::::
+::::::-%%++==------==+*%*.::::::
+:::::::%#+==-------==+*%*.::::::
+:::::::##+===------=+++%+.::::::
+:::::::##===-------==+*%=.::::::
+::::::.+#=++=-:::::-=**#-:::::::
+::::::-**+***#+---+*####=:::::::
+::::::-+*=++***=-+##****=:::::::
+:::::::++-=+*==-:+++**++-:::::::
+:::::::=+-:---=-:==-===+-:::::::
+:::::::=+-::::--:==---=*::::::::
+:::::::-+-::::=-:==---=+::::::::
+::::::::+=-::-=-:-=---+=.:::::::
+::::::::++--:-=-:==--=*=.:::::::
+:::::::.=*=---=+++===+#-::::::::
+::::::::-#+-=======++**.::::::::
+:::::::::+*=+++===+++#-:::::::::
+:::::::::.++======++**::::::::::
+:::::::.:=+*+==+*+++#*#*-.::::::
+::::::.=**++*+--==+#***#%*-:.:::
+::::.-*@#++==*#####*+*+#@@@#=:.:::
+::.-*%@%#=+===*##*+++++%%%%@@%+-
+.-*%%%%%%+======++=++=+%%%%%%%@%
+*%@%%%%%%#--=======+==#%%%%%%%%%
+@%%%%%%%%%*--=======-*%%%%%%%%%%
+%%%%%%%%%%%#=------=#%%%%%%%%%%%
+%%%%%%%%%%%%%*==-=+#%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+```
 
 </div>
+
+---
+
+## About Me
+
+I'm a self-taught developer focused on full-stack web development and artificial intelligence. I enjoy building practical applications, solving problems, and expanding my knowledge through independent projects.
+
+- 💻 Building full-stack applications with Django, React, and modern web technologies.
+- 🤖 Working with machine learning, computer vision, NLP, and reinforcement learning.
+- 🎓 Studying Software Engineering at UTHM.
+- 📚 Completed Harvard's CS50x, CS50P, CS50SQL, and CS50AI.
+
+## Selected Projects
+
+| Project | Description |
+| --- | --- |
+| [Class Tracker](https://www.classtracker.space) | Full-stack student productivity platform featuring timetable management, collision detection, assignment tracking, and task organization. |
+| [Adgenx CRM](https://www.adgenx.online) | CRM platform for managing Facebook advertising accounts and payment tracking, built with Django, MySQL, and JavaScript. |
+| **Attention (NLP)** | Explored BERT's multi-head self-attention mechanisms using Hugging Face Transformers and visualized attention patterns between tokens. |
+| **Traffic (Computer Vision)** | Built a CNN using TensorFlow and Keras to classify German traffic signs across 43 categories. |
+| **Nim (Reinforcement Learning)** | Developed an AI agent that learns optimal strategies for the game of Nim through Q-learning and self-play. |
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=222)
+
+**Web Development**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**AI & Machine Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=222)
+
+## Connect
+
+- 🌐 [Portfolio](https://mohammadjowel.vercel.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-jowel-539775251/)
+- ✉️ [Email](mailto:mohammadjowel313@gmail.com)
