@@ -1,5 +1,3 @@
-<div align="center">
-
 ## About Me
 
 I'm a self-taught developer focused on full-stack web development and machine learning. I enjoy building practical applications, solving problems, and expanding my knowledge through independent projects.
