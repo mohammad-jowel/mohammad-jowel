@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a self-taught developer focused on full-stack web development and artificial intelligence. I enjoy building practical applications, solving problems, and expanding my knowledge through independent projects.
+I'm a self-taught developer focused on full-stack web development and machine learning. I enjoy building practical applications, solving problems, and expanding my knowledge through independent projects.
 
 - 💻 Building full-stack applications with Django, React, and modern web technologies.
 - 🤖 Working with machine learning, computer vision, NLP, and reinforcement learning.
