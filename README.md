@@ -1,17 +1,5 @@
 <div align="center">
 
-# Md Jowel
-
-### Full-Stack Developer · AI/ML Enthusiast · Software Engineering Student
-
-I build full-stack web applications and work with machine learning, combining independent learning with hands-on development.
-
-[Portfolio](https://mohammadjowel.vercel.app) · [LinkedIn](https://www.linkedin.com/in/md-jowel-539775251/) · [Email](mailto:mohammadjowel313@gmail.com)
-
-</div>
-
----
-
 ## About Me
 
 I'm a self-taught developer focused on full-stack web development and artificial intelligence. I enjoy building practical applications, solving problems, and expanding my knowledge through independent projects.
