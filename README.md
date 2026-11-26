@@ -16,6 +16,7 @@ I'm a self-taught developer focused on full-stack web development and machine le
 | **Attention (NLP)** | Explored BERT's multi-head self-attention mechanisms using Hugging Face Transformers and visualized attention patterns between tokens. |
 | **Traffic (Computer Vision)** | Built a CNN using TensorFlow and Keras to classify German traffic signs across 43 categories. |
 | **Nim (Reinforcement Learning)** | Developed an AI agent that learns optimal strategies for the game of Nim through Q-learning and self-play. |
+| ... |
 
 ## Tech Stack
 
