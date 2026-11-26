@@ -7,7 +7,7 @@ I'm a self-taught developer focused on full-stack web development and machine le
 - 🎓 Studying Software Engineering at UTHM.
 - 📚 Completed Harvard's CS50x, CS50P, CS50SQL, and CS50AI.
 
-## Selected Projects
+## Projects
 
 | Project | Description |
 | --- | --- |
